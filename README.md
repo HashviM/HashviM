@@ -2,7 +2,7 @@
 
 👩🏻‍🎓 BE EEE Student (2023-2027) at Knowledge Institute of Technology  
 💻 Learning Python, Web Development, and Problem Solving  
-🔭 Aspiring Software Engineer | Open to Internships  
+🔭 Aspiring Software Developer | Open to Internships  
 🌱 Exploring how technology solves real-life problems  
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/hashvitha-m-2514a8290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 
