@@ -4,7 +4,9 @@
 💻 Learning Python, Web Development, and Problem Solving  
 🔭 Aspiring Software Developer | Open to Internships  
 🌱 Exploring how technology solves real-life problems  
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/hashvitha-m-2514a8290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+📫 Connect with me on [LinkedIn](http://www.linkedin.com/in/hashvitha-m) 
+💻 Check out my [Portfolio](https://hashvim.github.io/my_portfolio/)
+
 
 > I believe technology can simplify life and create opportunities for everyone. I'm passionate about learning continuously and building solutions that matter.
 
@@ -12,7 +14,7 @@
 
 ## 🌐 Socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hash__v) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hashvitha-m-2514a8290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hashvitham2006@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hash__v) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hashvitha-m-2514a8290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hashvitham2006@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-link.com)  
 
 ---
 
