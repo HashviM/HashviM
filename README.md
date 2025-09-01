@@ -5,7 +5,7 @@
 🔭 Aspiring Software Developer | Open to Internships  
 🌱 Exploring how technology solves real-life problems  
 📫 Connect with me on [LinkedIn](http://www.linkedin.com/in/hashvitha-m) 
-💻 Check out my [Portfolio](https://hashvim.github.io/my_portfolio/)
+
 
 
 > I believe technology can simplify life and create opportunities for everyone. I'm passionate about learning continuously and building solutions that matter.
