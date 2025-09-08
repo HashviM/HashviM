@@ -4,7 +4,7 @@
 💻 Learning Python, Web Development, and Problem Solving  
 🔭 Aspiring Software Developer | Open to Internships  
 🌱 Exploring how technology solves real-life problems  
-📫 Connect with me on [LinkedIn](http://www.linkedin.com/in/hashvitha-m) 
+📫 Connect with me on [LinkedIn](http://www.linkedin.com/in/hashvitha-m) Check out my [Portfolio](https://github.com/Hashhhhh0)
 
 
 
